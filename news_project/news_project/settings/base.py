@@ -151,7 +151,7 @@ MEDIA_URL = "/media/"
 
 # Wagtail settings
 
-WAGTAIL_SITE_NAME = "news_project"
+WAGTAIL_SITE_NAME = "News Portal"
 
 # Search
 # https://docs.wagtail.org/en/stable/topics/search/backends.html
